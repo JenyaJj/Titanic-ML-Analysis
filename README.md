@@ -21,7 +21,7 @@ The sinking of the Titanic in 1912 was a tragedy that revealed disparities in su
 ## Project Structure
 
 ```plaintext
-Titanic-Survival-Prediction/
+Titanic-ML-Analysis/
 │
 ├── data/                     # Datasets
 ├── TitanicML.ipynd           # Main Jupyter Notebook
